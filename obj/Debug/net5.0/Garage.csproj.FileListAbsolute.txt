@@ -1,0 +1,16 @@
+C:\Users\emily\workspace\Garage\bin\Debug\net5.0\Garage.exe
+C:\Users\emily\workspace\Garage\bin\Debug\net5.0\Garage.deps.json
+C:\Users\emily\workspace\Garage\bin\Debug\net5.0\Garage.runtimeconfig.json
+C:\Users\emily\workspace\Garage\bin\Debug\net5.0\Garage.runtimeconfig.dev.json
+C:\Users\emily\workspace\Garage\bin\Debug\net5.0\Garage.dll
+C:\Users\emily\workspace\Garage\bin\Debug\net5.0\ref\Garage.dll
+C:\Users\emily\workspace\Garage\bin\Debug\net5.0\Garage.pdb
+C:\Users\emily\workspace\Garage\obj\Debug\net5.0\Garage.csproj.AssemblyReference.cache
+C:\Users\emily\workspace\Garage\obj\Debug\net5.0\Garage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emily\workspace\Garage\obj\Debug\net5.0\Garage.AssemblyInfoInputs.cache
+C:\Users\emily\workspace\Garage\obj\Debug\net5.0\Garage.AssemblyInfo.cs
+C:\Users\emily\workspace\Garage\obj\Debug\net5.0\Garage.csproj.CoreCompileInputs.cache
+C:\Users\emily\workspace\Garage\obj\Debug\net5.0\Garage.dll
+C:\Users\emily\workspace\Garage\obj\Debug\net5.0\ref\Garage.dll
+C:\Users\emily\workspace\Garage\obj\Debug\net5.0\Garage.pdb
+C:\Users\emily\workspace\Garage\obj\Debug\net5.0\Garage.genruntimeconfig.cache
